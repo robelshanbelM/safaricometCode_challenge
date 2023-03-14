@@ -1,8 +1,5 @@
-# safaricometCode_challenge
 
-
-
-API docs, or API description documents
+# API docs, or API description documents
 
 http://localhost:8081/swagger-ui/index.html
 
