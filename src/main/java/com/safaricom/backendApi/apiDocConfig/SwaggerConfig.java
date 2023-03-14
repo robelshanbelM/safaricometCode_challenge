@@ -15,7 +15,7 @@ public class SwaggerConfig {
 	
 	public OpenAPI openAPI() {
 		
-		return new OpenAPI().info(new Info().title("Safaricom Blog Api ").version("1.0").description("safaricom api doc") );
+		return new OpenAPI().info(new Info().title("Safaricom simple Api ").version("1.0").description("safaricom api doc") );
 	}
 	
   
