@@ -22,17 +22,17 @@ http://localhost:8081/api/v1/user/
 /post
 http://localhost:8081/api/v1/articles/
 
-# to add a view list of article
+# to  view list of article
 /get
 
 http://localhost:8081/api/v1/articles/
 
-# to add update article
+# to  update article
 /patch
 
 http://localhost:8081/api/v1/articles/id
 
-# to add delete article
+# to  delete article
 /delete
 
 http://localhost:8081/api/v1/articles/id
